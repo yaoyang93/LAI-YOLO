@@ -1,0 +1,29 @@
+# YOLO 目标检测类别配置文件
+# 注意：使用时需要根据实际数据集路径修改path、train、val字段
+
+# 数据集根路径（用户需根据实际存储路径修改）
+path: ./CODrone_split_dataset  
+# 训练/验证/测试集图片路径（相对于path的相对路径）
+train: train/images
+val: val/images      
+test: test/images    # 可选，无测试集时可删除或注释
+
+# 类别数量（必须与names列表长度一致）
+nc: 13
+
+# 类别名称列表（按ID顺序排列，索引对应类别ID）
+names:
+  - car
+  - ignored
+  - traffic-sign
+  - people
+  - motor
+  - truck
+  - bus
+  - bicycle
+  - boat
+  - tricycle
+  - traffic-light
+  - ship
+  - bridge
+    
