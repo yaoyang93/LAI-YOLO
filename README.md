@@ -33,13 +33,15 @@ Training/Testing Setup: Managed via default.yaml, including hyperparameters, opt
 ## 3.1 HeatMap
 This is the heat map of YOLOv11-n
 ![Figure 11 (a)](https://github.com/user-attachments/assets/85f9a674-462a-473d-a733-61ab38b4b3ba)
+
 This is the heat map of LAI-YOLO
 ![Figure 11 (b)](https://github.com/user-attachments/assets/316f4511-317e-4591-bc1f-3a32e4830075)
 
 ## 3.2 Visual Analysis
-This is the heat map of YOLOv11-n
+This is the picture of YOLOv11-n
 ![Figure 10 b_1](https://github.com/user-attachments/assets/d3330ef0-7dde-4de9-88b7-f431c212508a)
-This is the heat map of LAI-YOLO
+
+This is the picture of LAI-YOLO
 ![Figure 10 C_1](https://github.com/user-attachments/assets/56fcc325-1d80-45c0-b6d5-d644cfb6e1a1)
 
 # 4.Download link of the dataset used in the article
