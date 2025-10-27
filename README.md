@@ -27,3 +27,7 @@ Dataset Settings: Stored in the datasets subdirectory, defining paths, classes, 
 Training/Testing Setup: Managed via default.yaml, including hyperparameters, optimizer settings, and other training configurations.
 
 ## 2.2 Module Implementations (ultralytics/nn)
+
+# 3.Result graph
+
+<img width="1213" height="354" alt="image" src="https://github.com/user-attachments/assets/464c58bb-bd84-4ef1-a9ad-f82a29ab1a64" />
