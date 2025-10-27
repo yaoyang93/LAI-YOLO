@@ -30,4 +30,5 @@ Training/Testing Setup: Managed via default.yaml, including hyperparameters, opt
 
 # 3.Result graph
 
-<img width="1213" height="354" alt="image" src="https://github.com/user-attachments/assets/464c58bb-bd84-4ef1-a9ad-f82a29ab1a64" />
+
+![Figure 11 (b)](https://github.com/user-attachments/assets/316f4511-317e-4591-bc1f-3a32e4830075)
